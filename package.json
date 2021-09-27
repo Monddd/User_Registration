@@ -1,0 +1,21 @@
+{
+  "name": "user_registration",
+  "version": "1.0.0",
+  "description": "This is an activity that creates user registration",
+  "main": "server.js",
+  "scripts": {
+    "server": "npm start --prefix server",
+    "client": "npm start --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monddd/User_Registration.git"
+  },
+  "author": "Raymond Joseph Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Monddd/User_Registration/issues"
+  },
+  "homepage": "https://github.com/Monddd/User_Registration#readme",
+  "dependencies": {}
+}
